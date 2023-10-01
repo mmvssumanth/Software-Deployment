@@ -1,0 +1,13 @@
+C:\Users\mvsum\Desktop\ms\Software Enginering\week 6>java LetterGrade.java
+Malleswara Venkata Satyasai Sumanth Maradugu and naga sai garnepudi
+Please enter your grade:
+88
+The letterGrade for the grade 88 is B
+98
+The letterGrade for the grade 98 is A
+66
+The letterGrade for the grade 66 is D
+77
+The letterGrade for the grade 77 is C
+34
+The letterGrade for the grade 34 is F
