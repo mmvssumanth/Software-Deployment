@@ -35,9 +35,9 @@ public class LetterGrade {
             return "C+";
         } else if (grade >= 45) {
             return "D+";
-        } else {
+        } else
             return "F";
-        }
+        
     }
 }
 
